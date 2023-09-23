@@ -1,5 +1,5 @@
 # Cara menjalankan
-- build -t airflow-dibimbing:1.0.3 .
+- build -t airflow-dibimbing:1.0.11 .
 - docker compose -d
 
 # File atau Folder dan penjelasannya
