@@ -1,5 +1,3 @@
-from pymongo.mongo_client import MongoClient
-from pymongo.server_api import ServerApi
 from pyspark.sql import SparkSession
 import os
 
